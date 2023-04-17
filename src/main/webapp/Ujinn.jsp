@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-ㅇㅂㅇ ㅇㅅㅇ ㅇqㅇ
+아니 왜 안돼는데 ㅠㅠㅠ!!!!!!
 </body>
 </html>
