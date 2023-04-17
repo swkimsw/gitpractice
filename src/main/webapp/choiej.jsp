@@ -8,6 +8,6 @@
 <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-고생이 많으십니다
+배고프다.....빨리 점심 먹고 싶다.
 </body>
 </html>
