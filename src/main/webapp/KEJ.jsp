@@ -8,6 +8,7 @@
 <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
- 내 마음에 on lock☆
+	안녕하십니까.
+	Hi Hello.
 </body>
 </html>

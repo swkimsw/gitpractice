@@ -9,6 +9,6 @@
   src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-	숭구리당당 
+	숭구리당당 북치기 박치기 북치기 빱!
 </body>
 </html>
