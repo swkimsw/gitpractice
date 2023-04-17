@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-와우 what the XXXX
+ㅇㅂㅇ ㅇㅅㅇ ㅇqㅇ
 </body>
 </html>
