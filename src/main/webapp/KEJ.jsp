@@ -5,11 +5,10 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<script
-  src="https://code.jquery.com/jquery-3.6.4.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.js"></script>
 </head>
 <body>
-	프로젝트 최초 시작. 킥킥KickKick
-	abc
+	안녕하십니까.
+	Hi Hello.
 </body>
 </html>
