@@ -8,6 +8,7 @@
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 </head>
 <body>
-	제발 지각 그만
+	<h1>제발 지각 그만</h1>
+	<h2>언제까지 늦으실건가요</h2>
 </body>
 </html>
